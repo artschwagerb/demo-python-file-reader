@@ -16,7 +16,7 @@ def readLineByLine(filepath):
     return lines
 
 
-print ("Tanium Vulnerable File Read Test")
+print ("File Read Test")
 print ("")
 home = "/home/brian/file-read-test/"
 vuln_path = home + "results/*/*/vulnerable.txt"
